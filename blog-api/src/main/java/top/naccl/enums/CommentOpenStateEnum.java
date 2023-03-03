@@ -8,7 +8,7 @@ package top.naccl.enums;
  */
 public enum CommentOpenStateEnum {
 	/**
-	 * 博客不存在，或博客未公开
+	 * 博客不存在，或博客未公
 	 */
 	NOT_FOUND,
 	/**
